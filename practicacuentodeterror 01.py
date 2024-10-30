@@ -1,5 +1,5 @@
 #Primer cuento
-print("Vamos a crear un cuento juntos")
+print("hola es un nuevo cabio")
 nombre= input("Primero dime tu nombre ")
 
 print("De acuerdo " + nombre + "list@ para aterrarte? ")
